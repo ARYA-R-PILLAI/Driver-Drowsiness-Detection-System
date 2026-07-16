@@ -1,0 +1,35 @@
+body{
+
+    background:#111;
+
+    color:white;
+
+    font-family:Arial;
+
+    text-align:center;
+
+}
+
+.container{
+
+    margin-top:20px;
+
+}
+
+.camera{
+
+    display:inline-block;
+
+    border:5px solid cyan;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+}
+
+img{
+
+    width:900px;
+
+}
